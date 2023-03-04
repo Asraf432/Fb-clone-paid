@@ -414,9 +414,7 @@ class Main:
 		print("\033[1;32m [1] First You join group")
 		print("\033[1;33m [2] Exit")
 		print("")
-		ASRAF AHMED = input("\n\033[1;36m  Chose ==> \033[1;32m")
-		if ASRAF AHMED in ["", " "]:
-			exit()
+	
 		elif ASRAF AHMED in ["2", "02"]:
 			print("    Thanks🥰♥️")
 			exit()
